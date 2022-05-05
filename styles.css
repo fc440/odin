@@ -1,0 +1,16 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: red;
+  }
+  
+  p {
+    color: green;
+  }
+
+button {
+    color: orange;
+    font-size: 18px;
+
+}
