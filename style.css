@@ -1,11 +1,21 @@
-/* css style */
+/*Style Css*/
+body {
+font-family: "Helvetica", Sans-Serif;
+background-image: url(photos/food_bg.png) ;
+background-color: antiquewhite;
+
+      }
 
 img {
-border: 3px;
-display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+margin-top: 0px;
+margin-bottom: 0px;
+display: block;
+width: 40%;
+height: auto;
+border: 2px solid rgba(158, 72, 1, 0.432);
+
 }
 
 h1 {
@@ -13,7 +23,37 @@ color: brown;
 font-family: arial, sans-serif;
 font-size: 24px;
 font-weight: bold;
+text-decoration: underline;
 margin-top: 0px;
-margin-bottom: 1px;
+margin-bottom: 20px;
 text-align:center
 }
+
+h3 {
+    color: brown;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align:left
+    }
+
+p {
+color: #df0a0ae8
+font-family: arial, sans-serif;
+font-size: 16px
+ }
+
+ ul {
+    color: #272727e8
+    font-family: arial, sans-serif;
+    font-size: 16px
+ }
+
+ ol {
+    color: #272727e8
+    font-family: arial, sans-serif;
+    font-size: 16px
+ 
