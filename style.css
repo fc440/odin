@@ -11,6 +11,7 @@ h1 {
     
     }
 
+}
 .box {
     flex-wrap:wrap;
     width:100%;
@@ -33,7 +34,7 @@ margin-right: auto;
 margin-top: 0px;
 margin-bottom: 20px;
 display: block;
-width: 40%;
+width: 50%;
 height: auto;
 border: 2px solid orangered;
 }
@@ -59,11 +60,10 @@ h3 {
     color: #272727e8
     font-family: arial, sans-serif;
     font-size: 16px
-
   }
 
   body {
     font-family: "Helvetica", Sans-Serif;
     background-image: url(photos/food_bg.png) ;
-          }
+    }
     
